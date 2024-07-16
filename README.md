@@ -15,7 +15,24 @@
 **Chapter 1 of the "India TB Report 2023" details the organizational structure and functioning of the National Tuberculosis Elimination Programme (NTEP). The NTEP is implemented under the National Health Mission (NHM) with shared resources from the Central and State Governments.**
 
 ## Plots
+## Data collected form Lancet report
+'''Python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 
+# Your data
+data = {
+    "City": ["Delhi", "Mumbai", "Kolkata", "Chennai", "Ahmedabad", "Bangalore", "Hyderabad", "Pune", "Varanasi", "Shimla"],
+    "PM2.5 (mg/m³)": [113.0, 41.7, 55.2, 33.7, 37.9, 33.0, 38.9, 45.3, 82.1, 28.4],
+    "Deaths per year": [11964, 5091, 4678, 2870, 2495, 2102, 1597, 1367, 831, 59]
+}
+
+# Creating DataFrame
+df = pd.DataFrame(data)
+
+'''
 ![Program Output](output.png)
 
 ![Program Output](output1.png)
