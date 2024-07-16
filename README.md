@@ -15,7 +15,7 @@
 **Chapter 1 of the "India TB Report 2023" details the organizational structure and functioning of the National Tuberculosis Elimination Programme (NTEP). The NTEP is implemented under the National Health Mission (NHM) with shared resources from the Central and State Governments.**
 
 ## Plots
-## Data collected form Lancet report
+### Data collected form Lancet report
 ```Python
 import numpy as np
 import pandas as pd
@@ -32,6 +32,23 @@ data = {
 # Creating DataFrame
 df = pd.DataFrame(data)
 
+```
+## Generating a Scatter chart
+```python
+
+# Plotting scatter chart
+plt.figure(figsize=(10, 6))
+plt.scatter(df["PM2.5 (mg/m³)"], df["Deaths per year"], color='b')
+plt.title('Scatter Chart: PM2.5 vs Deaths per year')
+plt.xlabel('PM2.5 (mg/m³)')
+plt.ylabel('Deaths per year')
+plt.grid(True)
+plt.show()
+
+# Calculating correlation
+df.corr(method='pearson', numeric_only=True, min_periods=1)
+
+correlation
 ```
 ![Program Output](output.png)
 
