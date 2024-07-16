@@ -12,7 +12,7 @@
 
 ## Description
 
-**Chapter 1 of the "India TB Report 2023" details the organizational structure and functioning of the National Tuberculosis Elimination Programme (NTEP). The NTEP is implemented under the National Health Mission (NHM) with shared resources from the Central and State Governments.**
+We have done our own analysis after extracting data from the report. The details are provided below under "Plots" section. Please find the report [Click Here](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00114-1/fulltext)
 
 ## Plots
 ### Data collected form Lancet report
