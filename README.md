@@ -16,7 +16,7 @@
 
 ## Plots
 ## Data collected form Lancet report
-'''Python
+```Python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -32,7 +32,7 @@ data = {
 # Creating DataFrame
 df = pd.DataFrame(data)
 
-'''
+```
 ![Program Output](output.png)
 
 ![Program Output](output1.png)
