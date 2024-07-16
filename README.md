@@ -213,6 +213,8 @@ plt.show()
 ```
 ![Program Output](output5.png)
 
+### Interpretation
+The plot demonstrates that short-term exposure to PM2.5 is associated with an increased risk of mortality, even at concentrations below the current Indian standard of 60 µg/m³. The steep slope at lower levels of PM2.5 exposure indicates that reducing PM2.5 concentrations, even slightly, can have significant public health benefits by reducing mortality rates.
 
 ## Program-codes
 
