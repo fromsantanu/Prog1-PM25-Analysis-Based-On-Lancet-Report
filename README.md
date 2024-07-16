@@ -221,7 +221,7 @@ The plot demonstrates that short-term exposure to PM2.5 is associated with an in
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below. However, the output may not be generated on colab. For that you have to download the program and run it locally. Make sure that the packages are all installed.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/NTBRS-Chapter-1/blob/main/NTBRS-Chapter-1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Prog1-PM25-Analysis-Based-On-Lancet-Report/blob/main/Prog1-PM25-Analysis-Based-On-Lancet-Report.ipynb)
 
 ## Contribution
 
