@@ -14,16 +14,6 @@
 
 **Chapter 1 of the "India TB Report 2023" details the organizational structure and functioning of the National Tuberculosis Elimination Programme (NTEP). The NTEP is implemented under the National Health Mission (NHM) with shared resources from the Central and State Governments.**
 
-## Plots 
-
-
-## Program-codes
-
-
-The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below. However, the output may not be generated on colab. For that you have to download the program and run it locally. Make sure that the packages are all installed.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/NTBRS-Chapter-1/blob/main/NTBRS-Chapter-1.ipynb)
-
 ## Plots
 
 ![Program Output](output.png)
@@ -38,7 +28,13 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output5.png)
 
-A visual plot showing the state-wise distribution of functional Patient Provider Support Agencies (PPSA) approved and functional in various states as mentioned in the document.
+
+## Program-codes
+
+
+The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below. However, the output may not be generated on colab. For that you have to download the program and run it locally. Make sure that the packages are all installed.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/NTBRS-Chapter-1/blob/main/NTBRS-Chapter-1.ipynb)
 
 ## Contribution
 
