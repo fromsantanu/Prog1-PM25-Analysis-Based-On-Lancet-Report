@@ -12,7 +12,9 @@
 
 ## Description
 
-We have done our own analysis after extracting data from the report. The details are provided below under "Plots" section. Please find the report [Click Here](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00114-1/fulltext)
+We have done our own analysis after extracting data from the report. The details are provided below under "Plots" section. Please find the link to the report below.
+
+[Ambient air pollution and daily mortality in ten cities of India: a causal modelling study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00114-1/fulltext)
 
 ## Plots
 ### Data collected form Lancet report
