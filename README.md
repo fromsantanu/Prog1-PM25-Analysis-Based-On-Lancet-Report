@@ -50,6 +50,8 @@ df.corr(method='pearson', numeric_only=True, min_periods=1)
 
 correlation
 ```
+![Program Output](output.png)
+
 ### Generating a linear regression plot
 ```python
 import seaborn as sns
@@ -63,7 +65,8 @@ plt.ylabel('Deaths per year')
 plt.grid(True)
 plt.show()
 ```
-![Program Output](output.png)
+![Program Output](output1.png)
+
 ## Displaying a shaded area for 95% connfidence interval
 ```python
 # Convert to numpy arrays for modeling
@@ -103,7 +106,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-![Program Output](output1.png)
+![Program Output](output2.png)
 
 ### Interpretation with main Points from the Graph
 
@@ -156,11 +159,12 @@ print(correlation)
 sns.heatmap(correlation, annot=True, cmap='coolwarm')
 plt.show()
 ```
-![Program Output](output2.png)
+![Program Output](output3.png)
 
 ### Interpretation of the graph showing the heatmap 
 - There is a positive correlation of .72 between **PM2.5** levels and **Number of deaths recorded per year**
 - This conforms to the other plots shown above.
+
 
 ## Generating Pie Chart to understand distribution
 ```python
@@ -175,7 +179,7 @@ plt.title('Percentage of Deaths due to PM2.5 by City')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
 ```
-![Program Output](output3.png)
+![Program Output](output4.png)
 
 ### Interpretation of the pie chart 
 - Delhi, Mumbai and Kolkata are the worst affected areas
@@ -207,8 +211,6 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-![Program Output](output4.png)
-
 ![Program Output](output5.png)
 
 
